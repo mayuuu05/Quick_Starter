@@ -1,14 +1,13 @@
 # quick_starter
 
+A new Flutter project.
+
 <p align="center"> 
   <img src = " https://github.com/mayuuu05/Quick_Starter/assets/149376263/c1ef156e-48aa-4837-9a80-aa2a769470a7 " width=22% height=35% >   
   <img src = " https://github.com/mayuuu05/Quick_Starter/assets/149376263/ca759515-b847-47fa-ac40-0decab475f34 " width=22% height=35% >   
   <img src = " https://github.com/mayuuu05/Quick_Starter/assets/149376263/69ae46a3-7f07-407d-a277-f7f6b3e358b5 " width=22% height=35% >
   <img src = "  https://github.com/mayuuu05/Quick_Starter/assets/149376263/eda17173-5036-4266-8325-4cdb327cc0b2" width=22% height=35% >
 </p>
-
-
-A new Flutter project.
 
 ## Getting Started
 
