@@ -3,11 +3,13 @@
 A new Flutter project.
 
 <p align="center"> 
-  <img src =" https://github.com/mayuuu05/Quick_Starter/assets/149376263/c1ef156e-48aa-4837-9a80-aa2a769470a7 " width=22% height=35% >   
-  <img src =" https://github.com/mayuuu05/Quick_Starter/assets/149376263/ca759515-b847-47fa-ac40-0decab475f34 " width=22% height=35% >   
-  <img src =" https://github.com/mayuuu05/Quick_Starter/assets/149376263/69ae46a3-7f07-407d-a277-f7f6b3e358b5 " width=22% height=35% >
-  <img src ="  https://github.com/mayuuu05/Quick_Starter/assets/149376263/eda17173-5036-4266-8325-4cdb327cc0b2" width=22% height=35% >
+  <img src = "https://github.com/mayuuu05/anatomy_of_flutterapp/assets/149376263/fe8dbe92-c2a0-48c2-bba3-35f26fac98bf   " width=22% height=35% >     
+  <img src = "https://github.com/mayuuu05/anatomy_of_flutterapp/assets/149376263/eec8fa64-8d1a-4d52-91ff-8ff24fdc189b   " width=22% height=35% >    
+  <img src = "https://github.com/mayuuu05/anatomy_of_flutterapp/assets/149376263/213cad75-c332-4c59-b6d2-9a3d2885d5b5   " width=22% height=35% >
+  <img src = "https://github.com/mayuuu05/anatomy_of_flutterapp/assets/149376263/76f307bf-ab94-4fcd-a485-936db11395d4   " width=22% height=35% >
 </p>
+
+
 
 ## Getting Started
 
