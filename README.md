@@ -3,11 +3,12 @@
 A new Flutter project.
 
 
-
-![Fruits](https://github.com/mayuuu05/Quick_Starter/assets/149376263/4185e43e-54aa-4178-96c3-85072cad19d7)
-![flutter rich text](https://github.com/mayuuu05/Quick_Starter/assets/149376263/809d6c28-88f8-4ffc-9f93-f0cdba2b0a96)
-![richText](https://github.com/mayuuu05/Quick_Starter/assets/149376263/4abb5162-f146-423b-bff9-b50e94dac60f)
-![red and white](https://github.com/mayuuu05/Quick_Starter/assets/149376263/d6e07d55-2add-43f8-bb54-ed8030b8faba height=22%)
+<p>
+<img src="https://github.com/Drashtipatel296/day_1/assets/143180636/798373dd-9d03-49fd-9937-7f1a6641ce6a" width=22%, height=35%>
+<img src="https://github.com/Drashtipatel296/day_1/assets/143180636/37d9709d-46f4-4b7f-9231-4f99f965a4a9" width=22%, height=35%>
+<img src="https://github.com/Drashtipatel296/day_1/assets/143180636/36dfa86c-d0ac-4636-bbba-1aa0006d590c" width=22%, height=35%>
+<img src="https://github.com/Drashtipatel296/day_1/assets/143180636/23ee49c8-db8e-480a-936d-74958ead03a6" width=22%, height=35%>
+</p>
 
 
 ## Getting Started
