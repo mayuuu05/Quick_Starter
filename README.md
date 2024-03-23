@@ -4,11 +4,12 @@ A new Flutter project.
 
 
 <p>
-<img src="https://github.com/Drashtipatel296/day_1/assets/143180636/798373dd-9d03-49fd-9937-7f1a6641ce6a" width=22%, height=35%>
+<img src="https://github.com/mayuuu05/Quick_Starter/assets/149376263/85e16c05-45a7-499e-b7cd-a2bff2fac4d0" width=22%, height=35%>
 <img src="https://github.com/Drashtipatel296/day_1/assets/143180636/37d9709d-46f4-4b7f-9231-4f99f965a4a9" width=22%, height=35%>
 <img src="https://github.com/Drashtipatel296/day_1/assets/143180636/36dfa86c-d0ac-4636-bbba-1aa0006d590c" width=22%, height=35%>
 <img src="https://github.com/Drashtipatel296/day_1/assets/143180636/23ee49c8-db8e-480a-936d-74958ead03a6" width=22%, height=35%>
 </p>
+![flutter rich text]()
 
 
 ## Getting Started
