@@ -2,13 +2,12 @@
 
 A new Flutter project.
 
-<p align="center"> 
-  <img src = " https://github.com/mayuuu05/Quick_Starter/assets/149376263/ab7b50e8-a87b-4926-8f4d-780fbf24d11f  " width=22% height=35% >     
-  <img src = "https://github.com/mayuuu05/anatomy_of_flutterapp/assets/149376263/eec8fa64-8d1a-4d52-91ff-8ff24fdc189b   " width=22% height=35% >    
-  <img src = "https://github.com/mayuuu05/anatomy_of_flutterapp/assets/149376263/213cad75-c332-4c59-b6d2-9a3d2885d5b5   " width=22% height=35% >
-  <img src = "https://github.com/mayuuu05/anatomy_of_flutterapp/assets/149376263/76f307bf-ab94-4fcd-a485-936db11395d4   " width=22% height=35% >
-</p>
 
+
+![Fruits](https://github.com/mayuuu05/Quick_Starter/assets/149376263/4185e43e-54aa-4178-96c3-85072cad19d7)
+![flutter rich text](https://github.com/mayuuu05/Quick_Starter/assets/149376263/809d6c28-88f8-4ffc-9f93-f0cdba2b0a96)
+![richText](https://github.com/mayuuu05/Quick_Starter/assets/149376263/4abb5162-f146-423b-bff9-b50e94dac60f)
+![red and white](https://github.com/mayuuu05/Quick_Starter/assets/149376263/d6e07d55-2add-43f8-bb54-ed8030b8faba)
 
 
 ## Getting Started
