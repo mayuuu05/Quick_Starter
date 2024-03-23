@@ -7,7 +7,7 @@ A new Flutter project.
 ![Fruits](https://github.com/mayuuu05/Quick_Starter/assets/149376263/4185e43e-54aa-4178-96c3-85072cad19d7)
 ![flutter rich text](https://github.com/mayuuu05/Quick_Starter/assets/149376263/809d6c28-88f8-4ffc-9f93-f0cdba2b0a96)
 ![richText](https://github.com/mayuuu05/Quick_Starter/assets/149376263/4abb5162-f146-423b-bff9-b50e94dac60f)
-![red and white](https://github.com/mayuuu05/Quick_Starter/assets/149376263/d6e07d55-2add-43f8-bb54-ed8030b8faba)
+![red and white](https://github.com/mayuuu05/Quick_Starter/assets/149376263/d6e07d55-2add-43f8-bb54-ed8030b8faba height=22%)
 
 
 ## Getting Started
