@@ -2,7 +2,6 @@
 
 A new Flutter project.
 
-
 <p>
 <img src="https://github.com/mayuuu05/Quick_Starter/assets/149376263/85e16c05-45a7-499e-b7cd-a2bff2fac4d0" width=22%, height=35%>
 <img src="https://github.com/mayuuu05/Quick_Starter/assets/149376263/e373b688-6fce-476d-9ebc-865ebfa8def4" width=22%, height=35%>
